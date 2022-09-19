@@ -14,3 +14,6 @@ leapYears(1985) // is not a leap year: returns false
 
 ## Hints
 - use an `if` statement and `&&` to make sure all the conditions are met properly
+
+## Описание
+Делить на 4, делить на 100, делить на 400 - основа.
